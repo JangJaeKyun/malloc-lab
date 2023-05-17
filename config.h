@@ -1,6 +1,5 @@
 #ifndef __CONFIG_H_
 #define __CONFIG_H_
-
 /*
  * config.h - malloc lab configuration file
  *
